@@ -2,4 +2,4 @@ Edouard is giving the GitHub workshop today!
 
 Hey edit
 
-This is NOT the tryNewThing branch, ha!
+Trying things for this branch...
